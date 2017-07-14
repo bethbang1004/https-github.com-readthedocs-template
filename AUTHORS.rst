@@ -1,4 +1,4 @@
-Authors
+V-FRONT
 -------
 
 * Eric (New contributor)
